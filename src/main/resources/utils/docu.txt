@@ -1,0 +1,4 @@
+Lösche alle Tomcat-Instanzen
+
+netstat -aon | findstr -i "8081"
+taskkill /F /PID 8672

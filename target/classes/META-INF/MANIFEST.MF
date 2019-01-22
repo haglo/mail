@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: haglo
+Build-Jdk: 9.0.4
+Implementation-Title: mail
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.pilger
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/mail
+Created-By: Maven Integration for Eclipse
+
